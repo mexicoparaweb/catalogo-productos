@@ -123,42 +123,42 @@
         "name": "Mix Económico",
         "price": 9325,
         "unit": "kg",
-        "descripcion": ""
+        "descripcion": "Nueces, almendras, pasas de uva, maní, castaña de cajú"
       },
       {
         "id": 20,
         "name": "Mix Seco",
         "price": 12360,
         "unit": "kg",
-        "descripcion": ""
+        "descripcion": "Almendras, nueces mariposas, pasas de uva, maní"
       },
       {
         "id": 21,
         "name": "Mix Tropical",
         "price": 12500,
         "unit": "kg",
-        "descripcion": ""
+        "descripcion": "Nueces mariposas, almendra, maní, pasas de uva, ananá en cubos, chip de banana"
       },
       {
         "id": 22,
         "name": "Mix Premium",
         "price": 23580,
         "unit": "kg",
-        "descripcion": ""
+        "descripcion": "Nuez mariposas, almendras, avellanas, castaña de cajú"
       },
       {
         "id": 23,
         "name": "Mix Salado",
         "price": 17160,
         "unit": "kg",
-        "descripcion": ""
+        "descripcion": "Almendras, castaña de cajú salado, maní salado, pasas rubias, semillas de zapallo, maíz frito, garbanzo, avellanas"
       },
       {
         "id": 24,
         "name": "Mix Patagónico",
         "price": 23345,
         "unit": "kg",
-        "descripcion": ""
+        "descripcion": "Nueces, almendra, arándanos, castaña de cajú, coco en escamas, frutilla, pasas jumbo"
       }
     ],
     "Frutas Deshidratadas": [
@@ -1343,5 +1343,5 @@
     ]
   },
   "total_productos": 186,
-  "fecha_actualizacion": "2025-11-13T05:03:14.819Z"
+  "fecha_actualizacion": "2025-11-13T05:06:59.004Z"
 }
