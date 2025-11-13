@@ -5,7 +5,7 @@
       {
         "id": 1,
         "name": "Nuez con Cáscara",
-        "price": 8750,
+        "price": 9000,
         "unit": "kg",
         "descripcion": ""
       },
@@ -42,7 +42,7 @@
       {
         "id": 6,
         "name": "Almendra Nacional",
-        "price": 23400,
+        "price": 23700,
         "unit": "kg",
         "descripcion": ""
       },
@@ -63,7 +63,7 @@
       {
         "id": 9,
         "name": "Castañas de Cajú Natural",
-        "price": 21960,
+        "price": 21600,
         "unit": "kg",
         "descripcion": ""
       },
@@ -165,84 +165,84 @@
       {
         "id": 25,
         "name": "Pasas Sultaninas",
-        "price": 5375,
+        "price": 10125,
         "unit": "kg",
         "descripcion": ""
       },
       {
         "id": 26,
         "name": "Pasas Jumbo Superior",
-        "price": 7000,
+        "price": 23804.999999999996,
         "unit": "kg",
         "descripcion": ""
       },
       {
         "id": 27,
         "name": "Pasas Rubias",
-        "price": 8500,
+        "price": 23760,
         "unit": "kg",
         "descripcion": ""
       },
       {
         "id": 28,
         "name": "Ciruelas sin Carozo",
-        "price": 8625,
+        "price": 9375,
         "unit": "kg",
         "descripcion": ""
       },
       {
         "id": 30,
         "name": "Pera Deshidratada",
-        "price": 16320,
+        "price": 1950,
         "unit": "kg",
         "descripcion": ""
       },
       {
         "id": 31,
         "name": "Damasco Turco",
-        "price": 14040,
+        "price": 5937.5,
         "unit": "kg",
         "descripcion": ""
       },
       {
         "id": 32,
         "name": "Durazno Deshidratado",
-        "price": 15600,
+        "price": 8125,
         "unit": "kg",
         "descripcion": ""
       },
       {
         "id": 34,
         "name": "Arándanos",
-        "price": 15120,
+        "price": 8625,
         "unit": "kg",
         "descripcion": ""
       },
       {
         "id": 35,
         "name": "Chip de Banana",
-        "price": 15900,
+        "price": 12600,
         "unit": "kg",
         "descripcion": ""
       },
       {
         "id": 36,
         "name": "Higo Negro",
-        "price": 9375,
+        "price": 16320,
         "unit": "kg",
         "descripcion": ""
       },
       {
         "id": 37,
         "name": "Hongo",
-        "price": 24724.999999999996,
+        "price": 14040,
         "unit": "kg",
         "descripcion": ""
       },
       {
         "id": 38,
         "name": "Hongo",
-        "price": 17400,
+        "price": 15600,
         "unit": "½kg",
         "descripcion": ""
       },
@@ -256,14 +256,14 @@
       {
         "id": 41,
         "name": "Tomate Seco",
-        "price": 18240,
+        "price": 16500,
         "unit": "kg",
         "descripcion": ""
       },
       {
         "id": 42,
         "name": "Coco Rallado",
-        "price": 10875,
+        "price": 23760,
         "unit": "kg",
         "descripcion": ""
       }
@@ -272,182 +272,182 @@
       {
         "id": 45,
         "name": "Chía",
-        "price": 10187.5,
+        "price": 17400,
         "unit": "kg",
         "descripcion": ""
       },
       {
         "id": 46,
         "name": "Chía",
-        "price": 6625,
+        "price": 9000,
         "unit": "½kg",
         "descripcion": ""
       },
       {
         "id": 49,
         "name": "Girasol",
-        "price": 4937.5,
+        "price": 10875,
         "unit": "kg",
         "descripcion": ""
       },
       {
         "id": 50,
         "name": "Girasol",
-        "price": 3445,
+        "price": 25874.999999999996,
         "unit": "½kg",
         "descripcion": ""
       },
       {
         "id": 51,
         "name": "Zapallo",
-        "price": 14100,
+        "price": 2626,
         "unit": "kg",
         "descripcion": ""
       },
       {
         "id": 52,
         "name": "Zapallo",
-        "price": 9375,
+        "price": 11500,
         "unit": "½kg",
         "descripcion": ""
       },
       {
         "id": 53,
         "name": "Quinoa",
-        "price": 11500,
+        "price": 7625,
         "unit": "kg",
         "descripcion": ""
       },
       {
         "id": 54,
         "name": "Quinoa",
-        "price": 7437.5,
+        "price": 3419,
         "unit": "½kg",
         "descripcion": ""
       },
       {
         "id": 55,
         "name": "Amapola",
-        "price": 19800,
+        "price": 2340,
         "unit": "kg",
         "descripcion": ""
       },
       {
         "id": 56,
         "name": "Amapola",
-        "price": 12360,
+        "price": 5750,
         "unit": "½kg",
         "descripcion": ""
       },
       {
         "id": 57,
         "name": "Amaranto",
-        "price": 7500,
+        "price": 3937.5,
         "unit": "kg",
         "descripcion": ""
       },
       {
         "id": 58,
         "name": "Amaranto",
-        "price": 4875,
+        "price": 15300,
         "unit": "½kg",
         "descripcion": ""
       },
       {
         "id": 59,
         "name": "Sésamo Blanco",
-        "price": 8875,
+        "price": 10250,
         "unit": "kg",
         "descripcion": ""
       },
       {
         "id": 60,
         "name": "Sésamo Blanco",
-        "price": 5625,
+        "price": 13800,
         "unit": "½kg",
         "descripcion": ""
       },
       {
         "id": 61,
         "name": "Sésamo Integral",
-        "price": 3887.5,
+        "price": 9687.5,
         "unit": "kg",
         "descripcion": ""
       },
       {
         "id": 62,
         "name": "Sésamo Integral",
-        "price": 2314,
+        "price": 19800,
         "unit": "½kg",
         "descripcion": ""
       },
       {
         "id": 63,
         "name": "Sésamo Negro",
-        "price": 9750,
+        "price": 12360,
         "unit": "kg",
         "descripcion": ""
       },
       {
         "id": 64,
         "name": "Sésamo Negro",
-        "price": 6275,
+        "price": 7500,
         "unit": "½kg",
         "descripcion": ""
       },
       {
         "id": 65,
         "name": "Mix de Semillas",
-        "price": 3614,
+        "price": 4875,
         "unit": "kg",
         "descripcion": ""
       },
       {
         "id": 66,
         "name": "Mix de Semillas",
-        "price": 2314,
+        "price": 8875,
         "unit": "½kg",
         "descripcion": ""
       },
       {
         "id": 67,
         "name": "Arroz Yamaní",
-        "price": 2860,
+        "price": 5625,
         "unit": "kg",
         "descripcion": ""
       },
       {
         "id": 68,
         "name": "Arroz Integral",
-        "price": 2938,
+        "price": 3887.5,
         "unit": "kg",
         "descripcion": ""
       },
       {
         "id": 69,
         "name": "Sal Himalaya",
-        "price": 3588,
+        "price": 2314,
         "unit": "kg",
         "descripcion": ""
       },
       {
         "id": 70,
         "name": "Sal Marina Fina",
-        "price": 2470,
+        "price": 9750,
         "unit": "500g",
         "descripcion": ""
       },
       {
         "id": 71,
         "name": "Sal Marina Gruesa",
-        "price": 2470,
+        "price": 6275,
         "unit": "500g",
         "descripcion": ""
       },
       {
         "id": 72,
         "name": "Soja Texturizada",
-        "price": 3159,
+        "price": 3614,
         "unit": "kg",
         "descripcion": ""
       }
@@ -456,77 +456,77 @@
       {
         "id": 74,
         "name": "Poroto Aduki",
-        "price": 2990,
+        "price": 2860,
         "unit": "kg",
         "descripcion": ""
       },
       {
         "id": 75,
         "name": "Lentejas",
-        "price": 4500,
+        "price": 2938,
         "unit": "kg",
         "descripcion": ""
       },
       {
         "id": 76,
         "name": "Lentejón",
-        "price": 4625,
+        "price": 3588,
         "unit": "kg",
         "descripcion": ""
       },
       {
         "id": 77,
         "name": "Lenteja Turca",
-        "price": 7750,
+        "price": 2470,
         "unit": "kg",
         "descripcion": ""
       },
       {
         "id": 78,
         "name": "Arvejas Partidas",
-        "price": 1950,
+        "price": 2470,
         "unit": "kg",
         "descripcion": ""
       },
       {
         "id": 79,
         "name": "Poroto Alubia",
-        "price": 4625,
+        "price": 3159,
         "unit": "kg",
         "descripcion": ""
       },
       {
         "id": 80,
         "name": "Maíz Pisingallo",
-        "price": 2275,
+        "price": 3812.5,
         "unit": "kg",
         "descripcion": ""
       },
       {
         "id": 81,
         "name": "Garbanzo",
-        "price": 2860,
+        "price": 2990,
         "unit": "kg",
         "descripcion": ""
       },
       {
         "id": 82,
         "name": "Porotos Pallares Grandes",
-        "price": 10375,
+        "price": 4500,
         "unit": "kg",
         "descripcion": ""
       },
       {
         "id": 83,
         "name": "Porotos Colorados",
-        "price": 4875,
+        "price": 4625,
         "unit": "kg",
         "descripcion": ""
       },
       {
         "id": 84,
         "name": "Porotos Negros",
-        "price": 3328,
+        "price": 7750,
         "unit": "kg",
         "descripcion": ""
       }
@@ -535,133 +535,133 @@
       {
         "id": 85,
         "name": "Harina de Centeno",
-        "price": 2405,
+        "price": 1950,
         "unit": "kg",
         "descripcion": ""
       },
       {
         "id": 88,
         "name": "Harina de Soja",
-        "price": 1989,
+        "price": 2860,
         "unit": "kg",
         "descripcion": ""
       },
       {
         "id": 89,
         "name": "Harina de Lino",
-        "price": 3328,
+        "price": 10375,
         "unit": "kg",
         "descripcion": ""
       },
       {
         "id": 90,
         "name": "Harina Integral",
-        "price": 1430,
+        "price": 4875,
         "unit": "kg",
         "descripcion": ""
       },
       {
         "id": 91,
         "name": "Harina de Arroz",
-        "price": 2210,
+        "price": 3328,
         "unit": "kg",
         "descripcion": ""
       },
       {
         "id": 92,
         "name": "Harina de Garbanzo",
-        "price": 2015,
+        "price": 2405,
         "unit": "kg",
         "descripcion": ""
       },
       {
         "id": 93,
         "name": "Harina de Coco",
-        "price": 5250,
+        "price": 12600,
         "unit": "kg",
         "descripcion": ""
       },
       {
         "id": 94,
         "name": "Harina de Almendras",
-        "price": 5250,
+        "price": 1495,
         "unit": "kg",
         "descripcion": ""
       },
       {
         "id": 95,
         "name": "Harina de Almendras sin Piel",
-        "price": 6125,
+        "price": 1989,
         "unit": "kg",
         "descripcion": ""
       },
       {
         "id": 96,
         "name": "Harina de Chía",
-        "price": 3198,
+        "price": 3328,
         "unit": "kg",
         "descripcion": ""
       },
       {
         "id": 97,
         "name": "Maizena",
-        "price": 2795,
+        "price": 1430,
         "unit": "kg",
         "descripcion": ""
       },
       {
         "id": 98,
         "name": "Harina de Avena",
-        "price": 2795,
+        "price": 2210,
         "unit": "kg",
         "descripcion": ""
       },
       {
         "id": 99,
         "name": "Harina para Arepa",
-        "price": 5125,
+        "price": 2015,
         "unit": "kg",
         "descripcion": ""
       },
       {
         "id": 100,
         "name": "Harina de Algarroba",
-        "price": 6250,
+        "price": 5250,
         "unit": "kg",
         "descripcion": ""
       },
       {
         "id": 101,
         "name": "Levadura Levex",
-        "price": 1261,
+        "price": 5250,
         "unit": "2u",
         "descripcion": ""
       },
       {
         "id": 102,
         "name": "Fécula de Mandioca",
-        "price": 2795,
+        "price": 6125,
         "unit": "kg",
         "descripcion": ""
       },
       {
         "id": 103,
         "name": "Salvado de Trigo",
-        "price": 1755,
+        "price": 3198,
         "unit": "kg",
         "descripcion": ""
       },
       {
         "id": 104,
         "name": "Sémola",
-        "price": 3445,
+        "price": 2795,
         "unit": "kg",
         "descripcion": ""
       },
       {
         "id": 106,
         "name": "Harina de Trigo Sarraceno",
-        "price": 8625,
+        "price": 5125,
         "unit": "kg",
         "descripcion": ""
       }
@@ -670,21 +670,21 @@
       {
         "id": 108,
         "name": "Stevia",
-        "price": 5687.5,
+        "price": 1261,
         "unit": "150g",
         "descripcion": ""
       },
       {
         "id": 110,
         "name": "Boldo",
-        "price": 2535,
+        "price": 1755,
         "unit": "150g",
         "descripcion": ""
       },
       {
         "id": 112,
         "name": "Manzanilla en Flor",
-        "price": 8125,
+        "price": 2600,
         "unit": "150g",
         "descripcion": ""
       },
@@ -698,14 +698,14 @@
       {
         "id": 116,
         "name": "Cola de Caballo",
-        "price": 1885,
+        "price": 2340,
         "unit": "150g",
         "descripcion": ""
       },
       {
         "id": 117,
         "name": "Burrito",
-        "price": 3705,
+        "price": 3900,
         "unit": "150g",
         "descripcion": ""
       }
@@ -714,7 +714,7 @@
       {
         "id": 123,
         "name": "Avena Tradicional",
-        "price": 2795,
+        "price": 4212.5,
         "unit": "kg",
         "descripcion": ""
       },
@@ -728,7 +728,7 @@
       {
         "id": 125,
         "name": "Leche de Almendras",
-        "price": 4187.5,
+        "price": 2795,
         "unit": "1L",
         "descripcion": ""
       }
@@ -737,42 +737,42 @@
       {
         "id": 126,
         "name": "Aceite de Coco Valle Orgánico",
-        "price": 17880,
+        "price": 4375,
         "unit": "1000ml",
         "descripcion": ""
       },
       {
         "id": 127,
         "name": "Aceite de Coco Valle Orgánico",
-        "price": 6000,
+        "price": 17880,
         "unit": "250cc",
         "descripcion": ""
       },
       {
         "id": 128,
         "name": "Aceite de Coco Valle Orgánico",
-        "price": 7375,
+        "price": 6000,
         "unit": "360cc",
         "descripcion": ""
       },
       {
         "id": 129,
         "name": "Aceite de Oliva 1ra Prensada",
-        "price": 12240,
+        "price": 7375,
         "unit": "500cc",
         "descripcion": ""
       },
       {
         "id": 130,
         "name": "Aceite de Oliva 2da Prensada",
-        "price": 4875,
+        "price": 12240,
         "unit": "500cc",
         "descripcion": ""
       },
       {
         "id": 131,
         "name": "Aceite de Oliva 1ra Prensada",
-        "price": 7437.5,
+        "price": 4875,
         "unit": "1L",
         "descripcion": ""
       }
@@ -781,7 +781,7 @@
       {
         "id": 132,
         "name": "Almohaditas Frutilla",
-        "price": 4062.5,
+        "price": 7437.5,
         "unit": "½kg",
         "descripcion": ""
       },
@@ -802,21 +802,21 @@
       {
         "id": 135,
         "name": "Almohaditas Chocolate",
-        "price": 4437.5,
+        "price": 4062.5,
         "unit": "½kg",
         "descripcion": ""
       },
       {
         "id": 136,
         "name": "Quinoa Inflada",
-        "price": 8125,
+        "price": 4437.5,
         "unit": "kg",
         "descripcion": ""
       },
       {
         "id": 137,
         "name": "Quinoa Inflada",
-        "price": 4937.5,
+        "price": 8437.5,
         "unit": "½kg",
         "descripcion": ""
       }
@@ -832,63 +832,63 @@
       {
         "id": 140,
         "name": "Salsa de Soja El Álamo",
-        "price": 2418,
+        "price": 3185,
         "unit": "500ml",
         "descripcion": ""
       },
       {
         "id": 141,
         "name": "Extracto de Malta Procal",
-        "price": 3120,
+        "price": 2418,
         "unit": "100g",
         "descripcion": ""
       },
       {
         "id": 142,
         "name": "Jugo de Arándano con Stevia",
-        "price": 3575,
+        "price": 3120,
         "unit": "1L",
         "descripcion": ""
       },
       {
         "id": 143,
         "name": "Jugo de Arándano con Chía",
-        "price": 3575,
+        "price": 3770,
         "unit": "1L",
         "descripcion": ""
       },
       {
         "id": 144,
         "name": "Bicarbonato de Sodio",
-        "price": 3900,
+        "price": 3770,
         "unit": "kg",
         "descripcion": ""
       },
       {
         "id": 145,
         "name": "Vainilla Líquida",
-        "price": 1105,
+        "price": 3900,
         "unit": "100cc",
         "descripcion": ""
       },
       {
         "id": 146,
         "name": "Garrapiñada",
-        "price": 5562.5,
+        "price": 1105,
         "unit": "kg",
         "descripcion": ""
       },
       {
         "id": 147,
         "name": "Gelatina sin Sabor",
-        "price": 9062.5,
+        "price": 5562.5,
         "unit": "250g",
         "descripcion": ""
       },
       {
         "id": 148,
         "name": "Colágeno Hidrolizado",
-        "price": 1287,
+        "price": 9062.5,
         "unit": "90g",
         "descripcion": ""
       },
@@ -902,14 +902,14 @@
       {
         "id": 152,
         "name": "Polvo de Hornear",
-        "price": 9375,
+        "price": 2730,
         "unit": "kg",
         "descripcion": ""
       },
       {
         "id": 153,
         "name": "Cacao Amargo",
-        "price": 17400,
+        "price": 9375,
         "unit": "kg",
         "descripcion": ""
       },
@@ -1097,7 +1097,7 @@
       {
         "id": 185,
         "name": "Romero",
-        "price": 3380,
+        "price": 4250,
         "unit": "250g",
         "descripcion": ""
       },
@@ -1139,7 +1139,7 @@
       {
         "id": 193,
         "name": "Pimienta Mixta en Granos",
-        "price": 7250,
+        "price": 9000,
         "unit": "250g",
         "descripcion": ""
       },
@@ -1257,7 +1257,7 @@
       {
         "id": 210,
         "name": "Gotitas de Chocolate Arcor",
-        "price": 10812.5,
+        "price": 11500,
         "unit": "kg",
         "descripcion": ""
       },
@@ -1343,5 +1343,5 @@
     ]
   },
   "total_productos": 186,
-  "fecha_actualizacion": "2025-11-13T03:15:35.411Z"
+  "fecha_actualizacion": "2025-11-13T05:03:14.819Z"
 }
