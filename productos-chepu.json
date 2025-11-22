@@ -1338,6 +1338,94 @@
       }
     ]
   },
+  "metadata": {
+    "Frutos Secos": {
+      "orden": 1,
+      "visible": true,
+      "icono": "🥜"
+    },
+    "Mix Energéticos": {
+      "orden": 2,
+      "visible": true,
+      "icono": "🎒"
+    },
+    "Mesa Navideña": {
+      "orden": 3,
+      "visible": true,
+      "icono": "🎄"
+    },
+    "Frutas Deshidratadas": {
+      "orden": 4,
+      "visible": true,
+      "icono": "🍇"
+    },
+    "Semillas": {
+      "orden": 5,
+      "visible": true,
+      "icono": "🌱"
+    },
+    "Legumbres": {
+      "orden": 6,
+      "visible": true,
+      "icono": "🆕"
+    },
+    "Harinas": {
+      "orden": 7,
+      "visible": true,
+      "icono": "🌾"
+    },
+    "Celíacos - Sin TACC": {
+      "orden": 8,
+      "visible": true,
+      "icono": "✓"
+    },
+    "Avenas": {
+      "orden": 9,
+      "visible": true,
+      "icono": "🥣"
+    },
+    "Aceites": {
+      "orden": 10,
+      "visible": true,
+      "icono": "🫒"
+    },
+    "Almohaditas": {
+      "orden": 11,
+      "visible": true,
+      "icono": "🍪"
+    },
+    "Aceitunas": {
+      "orden": 12,
+      "visible": true,
+      "icono": "🫒"
+    },
+    "Varios": {
+      "orden": 13,
+      "visible": true,
+      "icono": "📦"
+    },
+    "Pastas de Maní": {
+      "orden": 14,
+      "visible": true,
+      "icono": "🥜"
+    },
+    "Hierbas": {
+      "orden": 15,
+      "visible": true,
+      "icono": "🌿"
+    },
+    "Té en Hebras": {
+      "orden": 16,
+      "visible": true,
+      "icono": "🍵"
+    },
+    "Condimentos Sueltos": {
+      "orden": 17,
+      "visible": true,
+      "icono": "🌶️"
+    }
+  },
   "total_productos": 186,
-  "fecha_actualizacion": "2025-11-20T03:29:23.440Z"
+  "total_categorias": 17,
+  "fecha_actualizacion": "2025-11-22T14:22:18.850Z"
 }
