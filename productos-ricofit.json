@@ -527,6 +527,59 @@
         "descripcion": ""
       }
     ],
+    "Pastas de Maní": [
+      {
+        "id": 177,
+        "name": "Oferta Pasta de Maní",
+        "price": 7500,
+        "unit": "unidad",
+        "descripcion": "Promo: 3 unidades combinadas Pop!"
+      }
+    ],
+    "Hierbas": [
+      {
+        "id": 178,
+        "name": "Stevia",
+        "price": 5687.5,
+        "unit": "150g",
+        "descripcion": "En hojas"
+      },
+      {
+        "id": 179,
+        "name": "Cedrón",
+        "price": 2795,
+        "unit": "150g",
+        "descripcion": ""
+      },
+      {
+        "id": 180,
+        "name": "Boldo",
+        "price": 2535,
+        "unit": "150g",
+        "descripcion": ""
+      },
+      {
+        "id": 181,
+        "name": "Poleo",
+        "price": 2938,
+        "unit": "150g",
+        "descripcion": ""
+      },
+      {
+        "id": 182,
+        "name": "Manzanilla en Flor",
+        "price": 8125,
+        "unit": "150g",
+        "descripcion": ""
+      },
+      {
+        "id": 183,
+        "name": "Rompiedras",
+        "price": 3185,
+        "unit": "150g",
+        "descripcion": ""
+      }
+    ],
     "Condimentos Sueltos": [
       {
         "id": 204,
@@ -621,13 +674,23 @@
       "visible": true,
       "icono": "📦"
     },
+    "Pastas de Maní": {
+      "orden": 14,
+      "visible": true,
+      "icono": "🥜"
+    },
+    "Hierbas": {
+      "orden": 15,
+      "visible": true,
+      "icono": "🌿"
+    },
     "Condimentos Sueltos": {
       "orden": 17,
       "visible": true,
       "icono": "🌶️"
     }
   },
-  "total_productos": 77,
-  "total_categorias": 12,
-  "fecha_actualizacion": "2025-11-22T14:31:29.292Z"
+  "total_productos": 84,
+  "total_categorias": 14,
+  "fecha_actualizacion": "2025-11-22T14:45:18.423Z"
 }
