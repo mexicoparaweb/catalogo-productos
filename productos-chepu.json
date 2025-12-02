@@ -398,8 +398,8 @@
       {
         "id": 59,
         "name": "Girasol",
-        "price": 5750,
-        "unit": "kg",
+        "price": 3937.5,
+        "unit": "½kg",
         "descripcion": ""
       },
       {
@@ -890,7 +890,7 @@
         "id": 128,
         "name": "Leche de Almendras",
         "price": 4375,
-        "unit": "kg",
+        "unit": "1000ml",
         "descripcion": "Marca: VRINK - Sin azúcar"
       }
     ],
@@ -899,7 +899,7 @@
         "id": 129,
         "name": "Aceite de Coco",
         "price": 17880,
-        "unit": "kg",
+        "unit": "1000ml",
         "descripcion": "Marca: Valle Orgánico"
       },
       {
@@ -920,21 +920,21 @@
         "id": 132,
         "name": "Aceite de Oliva 1ra Prensada en Frío",
         "price": 12240,
-        "unit": "½kg",
+        "unit": "500ml",
         "descripcion": "Envase: Botella de vidrio 500ml"
       },
       {
         "id": 133,
         "name": "Aceite de Oliva 2da Prensada",
         "price": 4875,
-        "unit": "½kg",
+        "unit": "500ml",
         "descripcion": "Envase: Plástico 500ml"
       },
       {
         "id": 134,
         "name": "Aceite de Oliva 1ra Prensada",
         "price": 7437.5,
-        "unit": "kg",
+        "unit": "1000ml",
         "descripcion": "Envase: Plástico 1L"
       }
     ],
@@ -1728,5 +1728,5 @@
   },
   "total_productos": 227,
   "total_categorias": 19,
-  "fecha_actualizacion": "2025-12-02T02:57:34.536Z"
+  "fecha_actualizacion": "2025-12-02T22:23:34.676Z"
 }
