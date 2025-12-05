@@ -122,50 +122,6 @@
         "descripcion": ""
       }
     ],
-    "Mix Energéticos": [
-      {
-        "id": 20,
-        "name": "Mix Económico",
-        "price": 9325,
-        "unit": "kg",
-        "descripcion": "Comp: Nueces, almendras, pasas de uva, maní, castaña de cajú"
-      },
-      {
-        "id": 21,
-        "name": "Mix Seco",
-        "price": 12360,
-        "unit": "kg",
-        "descripcion": "Comp: Almendras, nueces mariposas, pasas de uva, maní"
-      },
-      {
-        "id": 22,
-        "name": "Mix Tropical",
-        "price": 12500,
-        "unit": "kg",
-        "descripcion": "Comp: Nueces mariposas, almendra, maní, pasas de uva, ananá en cubos, chip de banana"
-      },
-      {
-        "id": 23,
-        "name": "Mix Premium",
-        "price": 23580,
-        "unit": "kg",
-        "descripcion": "Comp: Nuez mariposas, almendras, avellanas, castaña de cajú"
-      },
-      {
-        "id": 24,
-        "name": "Mix Salado",
-        "price": 17160,
-        "unit": "kg",
-        "descripcion": "Comp: Almendras, castaña de cajú salado, maní salado, pasas rubias, sem zapallo, maíz frito, garbanzo, avellanas"
-      },
-      {
-        "id": 25,
-        "name": "Mix Patagónico",
-        "price": 23345,
-        "unit": "kg",
-        "descripcion": "Comp: Nueces, almendra, arándanos, castaña de cajú, coco en escamas, frutilla, pasas jumbo"
-      }
-    ],
     "Mesa Navideña": [
       {
         "id": 26,
@@ -1635,11 +1591,6 @@
       "visible": true,
       "icono": "🥜"
     },
-    "Mix Energéticos": {
-      "orden": 2,
-      "visible": true,
-      "icono": "🎒"
-    },
     "Mesa Navideña": {
       "orden": 3,
       "visible": true,
@@ -1726,7 +1677,7 @@
       "icono": "🍫"
     }
   },
-  "total_productos": 227,
-  "total_categorias": 19,
-  "fecha_actualizacion": "2025-12-02T22:23:34.676Z"
+  "total_productos": 221,
+  "total_categorias": 18,
+  "fecha_actualizacion": "2025-12-05T01:14:29.596Z"
 }
