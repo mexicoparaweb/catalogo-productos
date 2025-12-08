@@ -10,13 +10,6 @@
         "descripcion": ""
       },
       {
-        "id": 2,
-        "name": "Nuez Dorada",
-        "price": 0,
-        "unit": "kg",
-        "descripcion": ""
-      },
-      {
         "id": 3,
         "name": "Nuez Cuartos Blancos",
         "price": 19920,
@@ -31,11 +24,11 @@
         "descripcion": ""
       },
       {
-        "id": 5,
-        "name": "Mariposa Ambar",
-        "price": 17640,
+        "id": 6,
+        "name": "Nuez Pecan",
+        "price": 27024.999999999996,
         "unit": "kg",
-        "descripcion": "Sin stock"
+        "descripcion": ""
       },
       {
         "id": 7,
@@ -54,7 +47,7 @@
       {
         "id": 9,
         "name": "Avellanas",
-        "price": 30819.999999999996,
+        "price": 31164.999999999996,
         "unit": "kg",
         "descripcion": ""
       },
@@ -117,9 +110,53 @@
       {
         "id": 19,
         "name": "Maíz Frito Español",
-        "price": 13920,
+        "price": 14220,
         "unit": "kg",
         "descripcion": ""
+      }
+    ],
+    "Mix Energéticos": [
+      {
+        "id": 20,
+        "name": "Mix Económico",
+        "price": 9375,
+        "unit": "kg",
+        "descripcion": "Comp: Nueces, almendras, pasas de uva, maní, castaña de cajú"
+      },
+      {
+        "id": 21,
+        "name": "Mix Seco",
+        "price": 13200,
+        "unit": "kg",
+        "descripcion": "Comp: Almendras, nueces mariposas, pasas de uva, maní"
+      },
+      {
+        "id": 22,
+        "name": "Mix Tropical",
+        "price": 12960,
+        "unit": "kg",
+        "descripcion": "Comp: Nueces mariposas, almendra, maní, pasas de uva, ananá en cubos, chip de banana"
+      },
+      {
+        "id": 23,
+        "name": "Mix Premium",
+        "price": 23689.999999999996,
+        "unit": "kg",
+        "descripcion": "Comp: Nuez mariposas, almendras, avellanas, castaña de cajú"
+      },
+      {
+        "id": 24,
+        "name": "Mix Salado",
+        "price": 18120,
+        "unit": "kg",
+        "descripcion": "Comp: Almendras, castaña de cajú salado, maní salado, pasas rubias, sem zapallo, maíz frito, garbanzo, avellanas"
+      },
+      {
+        "id": 25,
+        "name": "Mix Patagónico",
+        "price": 25644.999999999996,
+        "unit": "kg",
+        "descripcion": "Comp: Nueces, almendra, arándanos, castaña de cajú, coco en escamas, frutilla, pasas jumbo"
       }
     ],
     "Mesa Navideña": [
@@ -140,7 +177,7 @@
       {
         "id": 28,
         "name": "Fruta Glaseada",
-        "price": 23760,
+        "price": 23880,
         "unit": "2kg",
         "descripcion": "Presentación: Cajita 2kg"
       },
@@ -417,14 +454,14 @@
       {
         "id": 68,
         "name": "Sésamo Blanco",
-        "price": 8875,
+        "price": 9125,
         "unit": "kg",
         "descripcion": ""
       },
       {
         "id": 69,
         "name": "Sésamo Blanco",
-        "price": 5625,
+        "price": 5937.5,
         "unit": "½kg",
         "descripcion": ""
       },
@@ -1500,7 +1537,7 @@
       {
         "id": 223,
         "name": "Copos de Maíz sin Azúcar",
-        "price": 3224,
+        "price": 3250,
         "unit": "½kg",
         "descripcion": ""
       },
@@ -1591,6 +1628,11 @@
       "visible": true,
       "icono": "🥜"
     },
+    "Mix Energéticos": {
+      "orden": 2,
+      "visible": true,
+      "icono": "🎒"
+    },
     "Mesa Navideña": {
       "orden": 3,
       "visible": true,
@@ -1677,7 +1719,7 @@
       "icono": "🍫"
     }
   },
-  "total_productos": 221,
-  "total_categorias": 18,
-  "fecha_actualizacion": "2025-12-08T02:57:54.619Z"
+  "total_productos": 226,
+  "total_categorias": 19,
+  "fecha_actualizacion": "2025-12-08T20:04:56.296Z"
 }
