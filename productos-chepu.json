@@ -12,7 +12,7 @@
       {
         "id": 2,
         "name": "Nuez Dorada",
-        "price": 12600,
+        "price": 0,
         "unit": "kg",
         "descripcion": ""
       },
@@ -268,14 +268,14 @@
       {
         "id": 47,
         "name": "Hongo",
-        "price": 17400,
+        "price": 23400,
         "unit": "½kg",
         "descripcion": ""
       },
       {
         "id": 48,
         "name": "Dátil",
-        "price": 23400,
+        "price": 9000,
         "unit": "kg",
         "descripcion": ""
       },
@@ -845,7 +845,7 @@
       {
         "id": 128,
         "name": "Leche de Almendras",
-        "price": 4375,
+        "price": 4500,
         "unit": "1000ml",
         "descripcion": "Marca: VRINK - Sin azúcar"
       }
@@ -854,21 +854,21 @@
       {
         "id": 129,
         "name": "Aceite de Coco",
-        "price": 17880,
+        "price": 19080,
         "unit": "1000ml",
         "descripcion": "Marca: Valle Orgánico"
       },
       {
         "id": 130,
         "name": "Aceite de Coco",
-        "price": 6000,
+        "price": 6500,
         "unit": "250ml",
         "descripcion": "Marca: Valle Orgánico - Botella 250ml"
       },
       {
         "id": 131,
         "name": "Aceite de Coco",
-        "price": 7375,
+        "price": 8125,
         "unit": "360ml",
         "descripcion": "Marca: Valle Orgánico - Boca ancha 360ml"
       },
@@ -970,14 +970,14 @@
       {
         "id": 148,
         "name": "Jugo de Arándano con Stevia",
-        "price": 3770,
+        "price": 3510,
         "unit": "1000ml",
         "descripcion": "Con pulpa"
       },
       {
         "id": 149,
         "name": "Jugo de Arándano con Chía",
-        "price": 3770,
+        "price": 3510,
         "unit": "1000ml",
         "descripcion": ""
       },
@@ -1572,14 +1572,14 @@
       {
         "id": 233,
         "name": "Tableta Chocolate Semiamargo",
-        "price": 6875,
+        "price": 7125,
         "unit": "½kg",
         "descripcion": "Marca: Alpino"
       },
       {
         "id": 234,
         "name": "Tableta Chocolate Blanco",
-        "price": 6875,
+        "price": 7125,
         "unit": "½kg",
         "descripcion": "Marca: Alpino"
       }
@@ -1679,5 +1679,5 @@
   },
   "total_productos": 221,
   "total_categorias": 18,
-  "fecha_actualizacion": "2025-12-05T01:14:29.596Z"
+  "fecha_actualizacion": "2025-12-08T02:57:54.619Z"
 }
